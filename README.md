@@ -5,7 +5,13 @@ Dataset from kaggle: https://www.kaggle.com/datasets/uciml/electric-power-consum
 
 # Summary and metrics:
 
-After some data cleaning and plot the **correlation matrix** we obtain the following results
+After some data cleaning we plot the **correlation matrix**
+
+![images/corr.jpg](images/corr.jpg)
+
+
+And obtain the following results
+
 
 
 ![images/summary.jpg](images/summary.jpg)
